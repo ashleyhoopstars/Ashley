@@ -1,0 +1,2 @@
+run = "python ashley/hola.py" 
+language = "python3"
